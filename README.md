@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi, I'm Syed Jafri
+
+💻 Syed Jafri is a dedicated Computer Engineer with experience in software development, hardware design, and systems architecture. His work centers around applying engineering principles to build efficient, reliable, and impactful systems.
+
+[Engineer] — [Builder] — [Innovator] — [Researcher]
+
+
 
 <!--
 **syedjafri06193/syedjafri06193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
