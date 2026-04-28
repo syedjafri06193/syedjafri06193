@@ -4,7 +4,16 @@
 
 [Engineer] — [Builder] — [Innovator] — [Researcher]
 
+## Featured Projects
 
+| Project | What it is | Tech |
+|--------|------------|------|
+| **[Multiplayer Card Games](#)** | Full-stack web application simulating the card games Fish and Viet Cong. | TypeScript, Next.js, Vercel |
+| **[StonksGame](#)** | Discord bot running live stock-trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
+| **[Wildfire Detection](#)** | ML pipeline that flags wildfire risk signals from air-quality telemetry. | TypeScript, TensorFlow, Node.js |
+| **[DocuPilot](#)** | AI Google Drive agent that executes file workflows from natural language chat. | FastAPI, LangChain, Gemini API, React |
+| **[LectureGen](#)** | Automated lecture builder delivering multi-modal lessons via instructor + TA agents. | Next.js, Fastify, LiveKit, Anthropic Claude API |
+| **[Grow & Give](#)** | iOS application to improve personal productivity. | Swift, SwiftUI |
 
 # Toolbox
 + Languages: Python, Java, C/C++, JavaScript, TypeScript, Go, Rust, SQL, Bash, Swift, MATLAB
