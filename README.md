@@ -1,4 +1,4 @@
-## Hi, I'm Syed Jafri
+# Hi, I'm Syed Jafri
 
 💻 Syed Jafri is a dedicated Computer Engineer with experience in software development, hardware design, and systems architecture. His work centers around applying engineering principles to build efficient, reliable, and impactful systems.
 
