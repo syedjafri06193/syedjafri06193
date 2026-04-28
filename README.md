@@ -4,7 +4,7 @@
 
 [Engineer] — [Builder] — [Innovator] — [Researcher]
 
-## Featured Projects
+# Featured Projects
 
 | Project | What it is | Tech |
 |--------|------------|------|
