@@ -15,8 +15,7 @@
 | **[LectureGen](#)** | Automated lecture builder delivering multi-modal lessons via instructor + TA agents. | Next.js, Fastify, LiveKit, Anthropic Claude API |
 | **[Grow & Give](#)** | iOS application to improve personal productivity. | Swift, SwiftUI |
 
-# Toolbox
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### 💻 Languages
 Python, Java, C, C++, JavaScript (ES6+), TypeScript, Go, Rust, SQL, Bash / Shell, Swift, MATLAB
