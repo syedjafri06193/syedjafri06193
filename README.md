@@ -16,12 +16,65 @@
 | **[Grow & Give](#)** | iOS application to improve personal productivity. | Swift, SwiftUI |
 
 # Toolbox
-+ Languages: Python, Java, C/C++, JavaScript, TypeScript, Go, Rust, SQL, Bash, Swift, MATLAB
-+ AI/ML: LLMs, NLP, RAG, TensorFlow, PyTorch, Hugging Face, FAISS, MLflow
-+ Full-Stack: React, Next.js, Node.js, Express, Django, PostgreSQL, MongoDB, Vite
-+ Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions, Firebase, Google Cloud Platform, Vercel
-+ Frameworks & Platforms: SwiftUI, Discord
-+ Interests: Agentic AI, trust & safety, backend systems
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python
+- Java
+- C
+- C++
+- JavaScript (ES6+)
+- TypeScript
+- Go
+- Rust
+- SQL
+- Bash / Shell
+- Swift
+- MATLAB
+
+### 🤖 AI / Machine Learning
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- Model Fine-tuning
+- TensorFlow
+- PyTorch
+- Hugging Face Transformers
+- FAISS (Vector Search)
+- MLflow (Experiment Tracking)
+- Data Preprocessing & Feature Engineering
+
+### 🌐 Full-Stack Development
+- React
+- Next.js
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- GraphQL
+- PostgreSQL
+- MongoDB
+- Vite
+- Authentication (JWT, OAuth)
+- State Management (Redux, Zustand)
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda)
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions (CI/CD)
+- Firebase
+- Google Cloud Platform (GCP)
+- Vercel
+- Monitoring & Logging (CloudWatch, Prometheus)
+
+### 📱 Frameworks & Platforms
+- SwiftUI (iOS Development)
+- Discord Bots / API
+- Cross-platform Architecture
+- API Integrations
 
 <!--
 **syedjafri06193/syedjafri06193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
