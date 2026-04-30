@@ -17,20 +17,15 @@
 
 # Tech Stack
 
-### 💻 Languages
-Python, Java, C, C++, JavaScript (ES6+), TypeScript, Go, Rust, SQL, Bash / Shell, Swift, MATLAB
+Languages: Python, Java, C, C++, JavaScript (ES6+), TypeScript, Go, Rust, SQL, Bash / Shell, Swift, MATLAB
 
-### 🤖 AI / Machine Learning
-Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Deep Learning, Model Fine-tuning, TensorFlow, PyTorch, Hugging Face Transformers, FAISS (Vector Search), MLflow (Experiment Tracking), Data Preprocessing & Feature Engineering
+AI / Machine Learning: Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Deep Learning, Model Fine-tuning, TensorFlow, PyTorch, Hugging Face Transformers, FAISS (Vector Search), MLflow (Experiment Tracking), Data Preprocessing & Feature Engineering
 
-### 🌐 Full-Stack Development
-React, Next.js, Node.js, Express.js, Django, REST APIs, GraphQL, PostgreSQL, MongoDB, Vite, Authentication (JWT, OAuth), State Management (Redux, Zustand)
+Full-Stack Development: React, Next.js, Node.js, Express.js, Django, REST APIs, GraphQL, PostgreSQL, MongoDB, Vite, Authentication (JWT, OAuth), State Management (Redux, Zustand)
 
-### ☁️ Cloud & DevOps
-AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Firebase, Google Cloud Platform (GCP), Vercel, Monitoring & Logging (CloudWatch, Prometheus)
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Firebase, Google Cloud Platform (GCP), Vercel, Monitoring & Logging (CloudWatch, Prometheus)
 
-### 📱 Frameworks & Platforms
-SwiftUI (iOS Development), Discord Bots / API, Cross-platform Architecture, API Integrations
+Frameworks & Platforms: SwiftUI (iOS Development), Discord Bots / API, Cross-platform Architecture, API Integrations
 
 <!--
 **syedjafri06193/syedjafri06193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
