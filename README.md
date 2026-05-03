@@ -80,9 +80,9 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 Have a project idea or want to build something ambitious?
 
 - 🌐 Website: [syedjafri.xyz](https://syedjafri.xyz)  
-- 💼 LinkedIn: *(add link)*  
-- 💻 GitHub: *(add link)*  
-- ✉️ Email: *(add email)*  
+- 💼 LinkedIn: https://linkedin.com/in/syedjafri06193  
+- 💻 GitHub: https://github.com/syedjafri06193  
+- ✉️ Email: syedjafri06193@gmail.com  
 
 ---
 
