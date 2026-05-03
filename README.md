@@ -1,44 +1,103 @@
 # Hi, I'm Syed Jafri
 
-💻 Syed Jafri is a dedicated Computer Engineer with experience in software development, hardware design, and systems architecture. His work centers around applying engineering principles to build efficient, reliable, and impactful systems.
+🌐 **Website:** [syedjafri.xyz](https://syedjafri.xyz)
 
-[Engineer] — [Builder] — [Innovator] — [Researcher]
+---
 
-# Featured Projects
+## About Me
 
-| Project | What it is | Tech |
-|--------|------------|------|
-| **[Multiplayer Card Games](#)** | Full-stack web application simulating the card games Fish and Viet Cong. | TypeScript, Next.js, Vercel |
-| **[StonksGame](#)** | Discord bot running live stock-trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
-| **[Wildfire Detection](#)** | ML pipeline that flags wildfire risk signals from air-quality telemetry. | TypeScript, TensorFlow, Node.js |
-| **[DocuPilot](#)** | AI Google Drive agent that executes file workflows from natural language chat. | FastAPI, LangChain, Gemini API, React |
-| **[LectureGen](#)** | Automated lecture builder delivering multi-modal lessons via instructor + TA agents. | Next.js, Fastify, LiveKit, Anthropic Claude API |
-| **[Grow & Give](#)** | iOS application to improve personal productivity. | Swift, SwiftUI |
+I’m an engineer who doesn’t believe in the hardware/software divide.  
+The most interesting problems live at the boundary — where firmware talks to silicon, where network packets become physical actions, where sensors transform the world into data.
 
-# Tech Stack
+My background spans **embedded systems design, PCB layout, and low-level firmware**, all the way through backend services and modern web frontends. I’ve shipped systems that run for years on constrained hardware and built infrastructure handling **millions of API requests per day**.
 
-Languages: Python, Java, C, C++, JavaScript (ES6+), TypeScript, Go, Rust, SQL, Bash / Shell, Swift, MATLAB
+When I’m not building, I’m reading IEEE papers, contributing to open-source tooling, or experimenting with systems that probably shouldn’t exist — yet.
 
-AI / Machine Learning: Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Deep Learning, Model Fine-tuning, TensorFlow, PyTorch, Hugging Face Transformers, FAISS (Vector Search), MLflow (Experiment Tracking), Data Preprocessing & Feature Engineering
+> Engineer • Builder • Innovator • Researcher
 
-Full-Stack Development: React, Next.js, Node.js, Express.js, Django, REST APIs, GraphQL, PostgreSQL, MongoDB, Vite, Authentication (JWT, OAuth), State Management (Redux, Zustand)
+---
 
-Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions (CI/CD), Firebase, Google Cloud Platform (GCP), Vercel, Monitoring & Logging (CloudWatch, Prometheus)
+## 🚀 Featured Projects
 
-Frameworks & Platforms: SwiftUI (iOS Development), Discord Bots / API, Cross-platform Architecture, API Integrations
+| Project | Description | Tech Stack |
+|--------|------------|------------|
+| **[Multiplayer Card Games](#)** | Full-stack multiplayer platform simulating games like Fish and Viet Cong. | TypeScript, Next.js, Vercel |
+| **[StonksGame](#)** | Discord bot for real-time stock trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
+| **[Wildfire Detection](#)** | ML pipeline that detects wildfire risk using air-quality telemetry signals. | TypeScript, TensorFlow, Node.js |
+| **[DocuPilot](#)** | AI-powered Google Drive agent that executes workflows from natural language. | FastAPI, LangChain, Gemini API, React |
+| **[LectureGen](#)** | Multi-agent system generating full lectures with instructor + TA coordination. | Next.js, Fastify, LiveKit, Claude API |
+| **[Grow & Give](#)** | iOS productivity app focused on habit-building and personal growth. | Swift, SwiftUI |
+
+---
+
+## 🧠 Technical Scope
+
+### Languages
+`Python` `Java` `C` `C++` `JavaScript` `TypeScript` `Go` `Rust` `SQL` `Bash` `Swift` `MATLAB`
+
+### Systems & Hardware
+- Embedded Systems Design  
+- PCB Layout (KiCad / Altium)  
+- STM32 / ESP32  
+- FPGA (Xilinx), VHDL  
+- JTAG / SWD Debugging  
+- Signal Integrity  
+
+### Protocols & Interfaces
+- CAN Bus / LIN  
+- LoRaWAN / BLE  
+- SPI / I2C / UART  
+- MQTT  
+- gRPC / REST  
+
+### AI / Machine Learning
+- Large Language Models (LLMs)  
+- NLP, RAG Pipelines  
+- Deep Learning & Fine-Tuning  
+- TensorFlow, PyTorch  
+- Hugging Face Transformers  
+- FAISS (Vector Search)  
+- MLflow  
+
+### Full-Stack Development
+- React, Next.js, Node.js, Express, Django  
+- REST APIs, GraphQL  
+- PostgreSQL, MongoDB  
+- Auth: JWT, OAuth  
+- State: Redux, Zustand  
+
+### Cloud & Infrastructure
+- AWS (EC2, S3, Lambda)  
+- Google Cloud Platform (GCP)  
+- Docker, Kubernetes, Terraform  
+- CI/CD (GitHub Actions)  
+- Monitoring: Prometheus, CloudWatch  
+
+---
+
+## 📫 Get in Touch
+
+Have a project idea or want to build something ambitious?
+
+- 🌐 Website: [syedjafri.xyz](https://syedjafri.xyz)  
+- 💼 LinkedIn: *(add link)*  
+- 💻 GitHub: *(add link)*  
+- ✉️ Email: *(add email)*  
+
+---
+
+## ⚡ Philosophy
+
+I build at the intersection of:
+- **Software ↔ Hardware**
+- **Theory ↔ Systems**
+- **Research ↔ Real-world deployment**
+
+The goal isn’t just to make things work —  
+it’s to make them **robust, scalable, and meaningful**.
+
+---
 
 <!--
-**syedjafri06193/syedjafri06193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This repository is special because its README appears on your GitHub profile.
 -->
