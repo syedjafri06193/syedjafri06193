@@ -75,6 +75,26 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 
 ---
 
+## 🔬 Research
+
+I’m interested in systems that operate at the intersection of **intelligence, infrastructure, and the physical world** — where learning systems meet real constraints like latency, power, and reliability.
+
+### Current Areas of Exploration
+
+- **Edge AI & Embedded Intelligence**  
+  Running machine learning models on constrained hardware (MCUs, edge devices), optimizing for latency, power consumption, and real-time inference.
+
+- **Multi-Agent Systems & Autonomous Workflows**  
+  Designing systems where multiple AI agents coordinate, plan, and execute tasks with minimal human intervention.
+
+- **Distributed Systems & Real-Time Infrastructure**  
+  Building fault-tolerant, event-driven systems that operate under high throughput and low-latency constraints.
+
+- **Human ↔ AI Interfaces**  
+  Exploring how natural language can act as a control layer for complex systems (e.g., agents, IoT, developer tools).
+
+---
+
 ## 📫 Get in Touch
 
 Have a project idea or want to build something ambitious?
