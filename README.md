@@ -20,8 +20,8 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|------------|------------|
-| **[Multiplayer Card Games](#)** | Full-stack multiplayer platform simulating games like Fish and Viet Cong. | TypeScript, Next.js, Vercel |
+| --- | --- | --- |
+| **[Sentiment Analysis API](#)** | Built a RESTful API for sentiment analysis of text data using pre-trained transformer models, deployed on a cloud platform for easy integration. | Python, Flask, NLTK, Hugging Face |
 | **[StonksGame](#)** | Discord bot for real-time stock trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
 | **[Wildfire Detection](#)** | ML pipeline that detects wildfire risk using air-quality telemetry signals. | TypeScript, TensorFlow, Node.js |
 | **[DocuPilot](#)** | AI-powered Google Drive agent that executes workflows from natural language. | FastAPI, LangChain, Gemini API, React |
