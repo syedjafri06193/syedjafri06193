@@ -21,7 +21,7 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **[Sentiment Analysis API](#)** | Built a RESTful API for sentiment analysis of text data using pre-trained transformer models, deployed on a cloud platform for easy integration. | Python, Flask, NLTK, Hugging Face |
+| **[Sentiment Analysis API](https://github.com/syedjafri06193/Sentiment-Analysis-API)** | Built a RESTful API for sentiment analysis of text data using pre-trained transformer models, deployed on a cloud platform for easy integration. | Python, Flask, NLTK, Hugging Face |
 | **[StonksGame](#)** | Discord bot for real-time stock trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
 | **[Wildfire Detection](#)** | ML pipeline that detects wildfire risk using air-quality telemetry signals. | TypeScript, TensorFlow, Node.js |
 | **[DocuPilot](#)** | AI-powered Google Drive agent that executes workflows from natural language. | FastAPI, LangChain, Gemini API, React |
