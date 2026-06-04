@@ -4,13 +4,12 @@
 
 ---
 
+# Hi, I'm Syed Jafri
+
+🌐 **Website:** [syedjafri.xyz](https://syedjafri.xyz)
+
 <!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedjafri06193&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Syed's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedjafri06193&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-  </a>
-</div>
+[![Syed Jafri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedjafri06193&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
