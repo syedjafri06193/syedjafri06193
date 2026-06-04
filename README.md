@@ -4,12 +4,6 @@
 
 ---
 
-# Hi, I'm Syed Jafri
-
-🌐 **Website:** [syedjafri.xyz](https://syedjafri.xyz)
-
----
-
 ## About Me
 
 I’m an engineer who doesn’t believe in the hardware/software divide.  
