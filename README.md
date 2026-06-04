@@ -39,8 +39,6 @@ An all-in-one **enterprise sales platform** built mobile-first for iOS & Android
 | --- | --- | --- |
 | **[Sentiment Analysis API](https://github.com/syedjafri06193/Sentiment-Analysis-API)** | RESTful API for text sentiment using pre-trained transformers, deployed to the cloud for easy integration. | Python, Flask, NLTK, Hugging Face |
 | **[StonksGame](#)** | Discord bot for real-time stock trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
-| **[Wildfire Detection](#)** | ML pipeline detecting wildfire risk from air-quality telemetry signals. | TypeScript, TensorFlow, Node.js |
-| **[DocuPilot](#)** | AI-powered Google Drive agent that executes workflows from natural language. | FastAPI, LangChain, Gemini API, React |
 | **[LectureGen](#)** | Multi-agent system generating full lectures with instructor + TA coordination. | Next.js, Fastify, LiveKit, Claude API |
 | **[Image Captioning System](https://github.com/syedjafri06193/Image-Captioning-System)** | End-to-end system generating descriptive captions for images using CNN and LSTM models, achieving state-of-the-art performance on COCO. | Python, TensorFlow, OpenCV |
 
