@@ -8,9 +8,6 @@
 
 🌐 **Website:** [syedjafri.xyz](https://syedjafri.xyz)
 
-<!-- GitHub Stats -->
-[![Syed Jafri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedjafri06193&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## About Me
@@ -30,7 +27,7 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 
 ## ⭐ Highlight Project
 
-### [Revanta](https://github.com/syedjafri06193/revanta-ven) — *Revenue at the vanguard.*
+### [Revanta](https://github.com/syedjafri06193/revenue-intelligence-platform-proj) — *Revenue at the vanguard.*
 
 An all-in-one **enterprise sales platform** built mobile-first for iOS & Android. Revanta combines CRM, AI-powered outreach, call coaching, pipeline management, and revenue forecasting into a single cohesive product.
 
