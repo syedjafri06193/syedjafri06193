@@ -113,7 +113,6 @@ Have a project idea or want to build something ambitious?
 - 💼 LinkedIn: https://linkedin.com/in/syedjafri06193/
 - 💻 GitHub: https://github.com/syedjafri06193  
 - ✉️ Email: syedjafri06193@gmail.com
---
 - 🏆 Codeforces: https://codeforces.com/profile/syedjafri06193
 - 🍳 CodeChef: https://www.codechef.com/users/syedjafri06193
 - ⚡ LeetCode: https://leetcode.com/u/syedjafri06193/
