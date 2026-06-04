@@ -4,6 +4,14 @@
 
 ---
 
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedjafri06193&theme=tokyonight" alt="Syed's GitHub Activity Chart" width="100%" />
+</p>
+
+---
+
 ## About Me
 
 I’m an engineer who doesn’t believe in the hardware/software divide.  
@@ -97,17 +105,13 @@ I’m interested in systems that operate at the intersection of **intelligence, 
 
 ### Current Areas of Exploration
 
-- **Edge AI & Embedded Intelligence**  
-  Running machine learning models on constrained hardware (MCUs, edge devices), optimizing for latency, power consumption, and real-time inference.
+- **Edge AI & Embedded Intelligence** Running machine learning models on constrained hardware (MCUs, edge devices), optimizing for latency, power consumption, and real-time inference.
 
-- **Multi-Agent Systems & Autonomous Workflows**  
-  Designing systems where multiple AI agents coordinate, plan, and execute tasks with minimal human intervention.
+- **Multi-Agent Systems & Autonomous Workflows** Designing systems where multiple AI agents coordinate, plan, and execute tasks with minimal human intervention.
 
-- **Distributed Systems & Real-Time Infrastructure**  
-  Building fault-tolerant, event-driven systems that operate under high throughput and low-latency constraints.
+- **Distributed Systems & Real-Time Infrastructure** Building fault-tolerant, event-driven systems that operate under high throughput and low-latency constraints.
 
-- **Human ↔ AI Interfaces**  
-  Exploring how natural language can act as a control layer for complex systems (e.g., agents, IoT, developer tools).
+- **Human ↔ AI Interfaces** Exploring how natural language can act as a control layer for complex systems (e.g., agents, IoT, developer tools).
 
 ---
 
@@ -133,7 +137,3 @@ The goal isn’t just to make things work —
 it’s to make them **robust, scalable, and meaningful**.
 
 ---
-
-<!--
-This repository is special because its README appears on your GitHub profile.
--->
