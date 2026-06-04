@@ -4,14 +4,6 @@
 
 ---
 
-## 📊 Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedjafri06193&theme=tokyonight" alt="Syed's GitHub Activity Chart" width="100%" />
-</p>
-
----
-
 ## About Me
 
 I’m an engineer who doesn’t believe in the hardware/software divide.  
