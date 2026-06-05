@@ -86,7 +86,16 @@ An all-in-one **enterprise sales platform** built mobile-first for iOS & Android
 - Google Cloud Platform (GCP)  
 - Docker, Kubernetes, Terraform  
 - CI/CD (GitHub Actions)  
-- Monitoring: Prometheus, CloudWatch  
+- Monitoring: Prometheus, CloudWatch
+
+### Game Development
+- **Engines:** Unity (C#), Unreal Engine 5 (C++), Godot (GDScript)
+- **Graphics & Shaders:** OpenGL, Vulkan, HLSL / GLSL, WebGL, Three.js
+- **Multiplayer / Networking:** Mirror, Netcode for GameObjects, Photon PUN2, WebSockets
+- **AI & Physics:** Behaviour Trees, GOAP, Unity ML-Agents, PhysX / Jolt
+- **Audio:** FMOD, Wwise
+- **Asset Pipelines:** Blender (3D), Aseprite (2D/Pixel Art), Addressables, Git LFS, Plastic SCM
+- **Platform SDKs:** Steam SDK, Steamworks.NET
 
 ---
 
