@@ -1,7 +1,7 @@
 # Hi, I'm Syed Jafri
 
 🌐 **Website:** [syedjafri.xyz](https://syedjafri.xyz)  
-📅 **Schedule a Call:** [30min Meeting](https://calendly.com/syedjafri06193/30min)
+📅 **Schedule a Call:** [Meeting](https://calendly.com/syedjafri06193/30min)
 
 ---
 
