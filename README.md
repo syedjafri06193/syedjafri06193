@@ -120,15 +120,17 @@ I’m interested in systems that operate at the intersection of **intelligence, 
 Have a project idea or want to build something ambitious?
 
 - 🌐 Website: [syedjafri.xyz](https://syedjafri.xyz)  
-- 💼 LinkedIn: https://linkedin.com/in/syedjafri06193/
-- 💻 GitHub: https://github.com/syedjafri06193  
+- 💼 LinkedIn: [linkedin.com/in/syedjafri06193](https://linkedin.com/in/syedjafri06193/)  
+- 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)  
 - ✉️ Email: syedjafri06193@gmail.com
-- 🏆 Codeforces: https://codeforces.com/profile/syedjafri06193
-- 🍳 CodeChef: https://www.codechef.com/users/syedjafri06193
-- ⚡ LeetCode: https://leetcode.com/u/syedjafri06193/
+
+### 🚀 Competitive Programming
+
+- 🏆 Codeforces: [codeforces.com/profile/syedjafri06193](https://codeforces.com/profile/syedjafri06193)  
+- 🍳 CodeChef: [codechef.com/users/syedjafri06193](https://www.codechef.com/users/syedjafri06193)  
+- ⚡ LeetCode: [leetcode.com/u/syedjafri06193](https://leetcode.com/u/syedjafri06193/)  
 
 ---
-
 ## ⚡ Philosophy
 
 I build at the intersection of:
