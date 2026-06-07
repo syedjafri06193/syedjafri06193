@@ -38,10 +38,11 @@ An all-in-one **enterprise sales platform** built mobile-first for iOS & Android
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **[Sentiment Analysis API](https://github.com/syedjafri06193/Sentiment-Analysis-API)** | RESTful API for text sentiment using pre-trained transformers, deployed to the cloud for easy integration. | Python, Flask, NLTK, Hugging Face |
-| **[StonksGame](#)** | Discord bot for real-time stock trading simulations with leaderboards and analytics. | Python, discord.py, Alpha Vantage API |
-| **[LectureGen](#)** | Multi-agent system generating full lectures with instructor + TA coordination. | Next.js, Fastify, LiveKit, Claude API |
-| **[Image Captioning System](https://github.com/syedjafri06193/Image-Captioning-System)** | End-to-end system generating descriptive captions for images using CNN and LSTM models, achieving state-of-the-art performance on COCO. | Python, TensorFlow, OpenCV |
+| **[Quant Sentiment Engine](ca://s?q=Tell_me_more_about_Quant_Sentiment_Engine)** | NLP pipeline that scores earnings‑call transcripts, 10‑K filings, and news to generate tradeable sentiment factors. Includes backtesting against S&P 500 sectors. | Python, spaCy, Hugging Face, FastAPI, PostgreSQL |
+| **[AlgoTraderSim](ca://s?q=Tell_me_more_about_AlgoTraderSim)** | Real‑time algorithmic trading simulator with paper‑trading, order books, slippage modeling, and strategy PnL dashboards. | Python, WebSockets, Pandas, Plotly, Alpaca API |
+| **[FinReportGen](ca://s?q=Tell_me_more_about_FinReportGen)** | Automated financial‑analysis generator producing full equity research reports (DCF, comps, risk analysis) from raw financial statements. | Next.js, Fastify, Python, yFinance, Claude API |
+| **[Portfolio Optimization Suite](ca://s?q=Tell_me_more_about_Portfolio_Optimization_Suite)** | End‑to‑end system implementing Modern Portfolio Theory, Black‑Litterman, and risk‑parity optimization with interactive visualizations. | Python, NumPy, CVXPy, Dash |
+| **[FraudDetectML](ca://s?q=Tell_me_more_about_FraudDetectML)** | Real‑time fraud‑detection pipeline using anomaly detection, graph‑based transaction analysis, and streaming risk scoring for fintech payments. | Python, PyTorch, Kafka, Neo4j, FastAPI |
 
 ---
 
