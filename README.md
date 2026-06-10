@@ -98,6 +98,55 @@ An all-in-one **enterprise sales platform** built mobile-first for iOS & Android
 - **Asset Pipelines:** Blender (3D), Aseprite (2D/Pixel Art), Addressables, Git LFS, Plastic SCM
 - **Platform SDKs:** Steam SDK, Steamworks.NET
 
+
+### Systems & Hardware                                                                  
+- Embedded Systems Design with STM32, ESP32, real-time constraints and low-power optimization                      
+- PCB Layout (KiCad / Altium) including multilayer boards, high-speed routing and design rule checks                 
+- STM32 / ESP32 microcontroller development, firmware, peripherals and wireless integration                         
+- FPGA (Xilinx), VHDL including synthesis, timing closure, simulation and hardware acceleration                    
+- JTAG / SWD Debugging with advanced tools, breakpoints, trace and production programming                          
+- Signal Integrity analysis, impedance matching, crosstalk reduction and high-speed design validation
+
+### Protocols & Interfaces                                                              
+- CAN Bus / LIN protocol implementation for automotive and industrial communication systems                        
+- LoRaWAN / BLE wireless protocols with low-power IoT connectivity and secure data transmission                    
+- SPI / I2C / UART serial interfaces with device driver development and performance optimization                   
+- MQTT lightweight messaging protocol for reliable IoT and edge device communication                               
+- gRPC / REST modern API development with protocol buffers, authentication and microservices architecture
+   
+### AI / Machine Learning                                                               
+- Large Language Models (LLMs) including prompt engineering, inference optimization and deployment strategies      
+- NLP, RAG Pipelines for retrieval-augmented generation, semantic search and knowledge grounding                   
+- Deep Learning & Fine-Tuning of transformer models with custom datasets and evaluation metrics                     
+- TensorFlow, PyTorch deep learning frameworks for model training, quantization and edge deployment                
+- Hugging Face Transformers library for rapid prototyping, model hub and fine-tuning workflows                      
+- FAISS (Vector Search) for efficient similarity search, embeddings and large-scale retrieval systems              
+- MLflow experiment tracking, model registry, deployment and MLOps pipeline automation
+               
+### Full-Stack Development                                                              
+- React, Next.js, Node.js, Express, Django full-stack web development with modern JavaScript ecosystem              
+- REST APIs, GraphQL design and implementation for scalable backend services and client integration                 
+- PostgreSQL, MongoDB database architecture, query optimization, indexing and data modeling                        
+- Auth: JWT, OAuth secure authentication, authorization, role-based access and identity management                  
+- State: Redux, Zustand advanced state management patterns for complex React applications
+                     
+### Cloud & Infrastructure                                                              
+- AWS (EC2, S3, Lambda) cloud services including serverless architecture and cost optimization                      
+- Google Cloud Platform (GCP) infrastructure, services, storage and machine learning integrations                  
+- Docker, Kubernetes, Terraform container orchestration and infrastructure as code best practices                  
+- CI/CD (GitHub Actions) automated pipelines for testing, building and deployment workflows                        
+- Monitoring: Prometheus, CloudWatch observability, alerting, logging and performance dashboards
+             
+### Game Development                                                                    
+- **Engines:** Unity (C#), Unreal Engine 5 (C++), Godot (GDScript) for cross-platform 2D/3D game development       
+- **Graphics & Shaders:** OpenGL, Vulkan, HLSL / GLSL, WebGL, Three.js for high-performance rendering pipelines     
+- **Multiplayer / Networking:** Mirror, Netcode for GameObjects, Photon PUN2, WebSockets for real-time experiences  
+- **AI & Physics:** Behaviour Trees, GOAP, Unity ML-Agents, PhysX / Jolt for intelligent agents and realistic sims  
+- **Audio:** FMOD, Wwise professional audio middleware integration, spatial sound and dynamic mixing                
+- **Asset Pipelines:** Blender (3D), Aseprite (2D/Pixel Art), Addressables, Git LFS, Plastic SCM for efficient workflow
+- **Platform SDKs:** Steam SDK, Steamworks.NET including achievements, leaderboards, multiplayer and publishing      
+
+
 ---
 
 ## 🔬 Research
