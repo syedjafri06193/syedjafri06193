@@ -1,6 +1,6 @@
 # Hi, I'm Syed Jafri
 
-🌐 **Website:** [syedjafri.xyz](https://syedjafri.dev)  
+🌐 **Website:** [syedjafri.dev](https://syedjafri.dev)  
 📅 **Schedule a Call:** [Meeting](https://calendly.com/syedjafri06193/15min)
 
 ---
@@ -121,7 +121,7 @@ I’m interested in systems that operate at the intersection of **intelligence, 
 
 Have a project idea or want to build something ambitious?
 
-- 🌐 Website: [syedjafri.xyz](https://syedjafri.dev)  
+- 🌐 Website: [syedjafri.dev](https://syedjafri.dev)  
 - 💼 LinkedIn: [linkedin.com/in/syedjafri06193](https://linkedin.com/in/syedjafri06193/)  
 - 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)  
 - ✉️ Email: syedjafri06193@gmail.com
