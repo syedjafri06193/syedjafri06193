@@ -131,7 +131,7 @@ Have a project idea or want to build something ambitious?
 - 🏆 Codeforces: [codeforces.com/profile/syedjafri06193](https://codeforces.com/profile/syedjafri06193)  
 - 🍳 CodeChef: [codechef.com/users/syedjafri06193](https://www.codechef.com/users/syedjafri06193)  
 - ⚡ LeetCode: [leetcode.com/u/syedjafri06193](https://leetcode.com/u/syedjafri06193/)  
-- DevPost: [devpost.com/syedjafri06193] (https://devpost.com/u/syedjafri06193)](https://devpost.com/syedjafri06193)
+- DevPost: [devpost.com/syedjafri06193](https://devpost.com/syedjafri06193)
 
 ---
 ## ⚡ Philosophy
