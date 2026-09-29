@@ -20,19 +20,6 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 
 # 🚀 Featured Projects
 
-## ⭐ Highlight Project
-
-### [Revanta](https://github.com/syedjafri06193/revenue-intelligence-platform-proj) — *Revenue at the vanguard.*
-
-An all-in-one **enterprise sales platform** built mobile-first for iOS & Android. Revanta combines CRM, AI-powered outreach, call coaching, pipeline management, and revenue forecasting into a single cohesive product.
-
-**Key Features:**
-- 🤖 AI engine for lead scoring, personalized email drafting, call transcription & coaching
-- 📊 Pipeline management with Kanban views, weighted forecasting & multi-pipeline support
-- 📱 Offline-capable mobile app with real-time sync
-- 🔗 Integrations with Gmail, Outlook, Twilio, Apollo, Clearbit, Slack & more
-
-**Tech Stack:** `React Native` `Expo` `Node.js` `FastAPI` `PostgreSQL` `pgvector` `Redis` `BullMQ` `Docker`
 
 ---
 
