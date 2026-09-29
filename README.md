@@ -21,8 +21,6 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 # 🚀 Featured Projects
 
 
----
-
 | Project | Description | Tech Stack |
 | --- | --- | --- |
 | **[FPGA-Video-Processing-Core-proj](https://github.com/syedjafri06193/FPGA-Video-Processing-Core-proj)** | High-performance FPGA video processing core for real-time frame manipulation, filtering, and hardware acceleration. | Verilog |
