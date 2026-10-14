@@ -81,6 +81,12 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 - **Asset Pipelines:** Blender (3D), Aseprite (2D/Pixel Art), Addressables, Git LFS, Plastic SCM for efficient workflow
 - **Platform SDKs:** Steam SDK, Steamworks.NET including achievements, leaderboards, multiplayer and publishing      
 
+### Geospatial / GIS
+- QGIS, ArcGIS Pro for spatial analysis, cartography and geoprocessing workflows
+- PostGIS, GDAL/OGR for spatial databases, format conversion and raster/vector processing
+- GeoPandas, Shapely, Rasterio for Python-based geospatial data analysis
+- Leaflet, Mapbox GL, Cesium for interactive 2D/3D web mapping
+- GPS/GNSS, remote sensing and satellite imagery processing
 
 ---
 
