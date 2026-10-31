@@ -20,12 +20,24 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 
 ## 🚀 Featured Projects
 
+<!-- Optional demo strip: drop GIFs/screenshots in an /assets folder and uncomment -->
+<!--
+<p align="center">
+  <img src="assets/fpga-demo.gif" width="32%" />
+  <img src="assets/nexusforge-demo.gif" width="32%" />
+  <img src="assets/lnn-digits-demo.gif" width="32%" />
+</p>
+-->
+
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [**FPGA Video Processing Core**](https://github.com/syedjafri06193/FPGA-Video-Processing-Core-proj) | Real-time video processing on FPGA: frame manipulation, filtering, and hardware acceleration. | Verilog · SystemVerilog · Vivado · ModelSim · AXI4-Stream |
-| [**AI Behavior Tree Toolkit**](https://github.com/syedjafri06193/AI-Behavior-Tree-Toolkit-proj) | Modular behavior trees for AI agents, NPC decision-making, and game logic. | C++17 · CMake · STL · Google Test |
-| [**Custom STM32 Dev Board**](https://github.com/syedjafri06193/Custom-STM32-Dev-Board-proj) | Custom STM32 board with peripherals, low-power modes, and firmware drivers. | C · STM32 HAL · KiCad · STM32CubeIDE · ARM Cortex-M |
-| [**Call Intelligence Summarizer**](https://github.com/syedjafri06193/Call-Intelligence-Summarizer-proj) | Transcribes call recordings, extracts action items, and analyzes sentiment. | Python · Whisper · Hugging Face Transformers · FastAPI |
+| [**ML Inference Engine (`lnn`)**](https://github.com/syedjafri06193/ML-Inference-Engine-proj)<br>[![CI](https://github.com/syedjafri06193/ML-Inference-Engine-proj/actions/workflows/ci.yml/badge.svg)](https://github.com/syedjafri06193/ML-Inference-Engine-proj/actions/workflows/ci.yml) | Int8 WebAssembly runtime for running neural nets in the browser. **19.5 KB gzipped** (~50× smaller than ONNX Runtime Web), hand-written SIMD GEMM with a **6.1–8.2× speed-up** over scalar, peaking at **47 GOP/s**. | Rust (`no_std`) · WASM SIMD · Python · ONNX · TypeScript |
+| [**Pipeline Forecasting Engine**](https://github.com/syedjafri06193/Pipeline-Forecasting-Engine-proj)<br>[![CI](https://github.com/syedjafri06193/Pipeline-Forecasting-Engine-proj/actions/workflows/ci.yml/badge.svg)](https://github.com/syedjafri06193/Pipeline-Forecasting-Engine-proj/actions/workflows/ci.yml) | Leakage-proof sales forecasting with calibrated deal models and correlated Monte Carlo. 80% intervals hit **79% coverage vs 16%** for the naive model, **29% lower** rep win-rate error, **2.8× better CRPS** than manager commits (simulated data). | Python · NumPy · pandas · pytest |
+| [**NexusForge: Edge-AI Drone Swarm**](https://github.com/syedjafri06193/NexusForge-HIL-Edge-AI-Drone-Swarm-proj)<br>[![CI](https://github.com/syedjafri06193/NexusForge-HIL-Autonomous-Edge-AI-Drone-Swarm-Arena-proj/actions/workflows/ci.yml/badge.svg)](https://github.com/syedjafri06193/NexusForge-HIL-Edge-AI-Drone-Swarm-proj/actions) | Multi-agent swarm arena with behavior trees, RL self-play, NLP commands, and ESP32 hardware-in-the-loop. **128 drones at 60 FPS**; 8-bit edge model runs **3.5× faster** than FP32 for a 2-pt accuracy drop. | Python · FastAPI · React · MQTT · FreeRTOS |
+| [**FPGA Video Processing Core**](https://github.com/syedjafri06193/FPGA-Video-Processing-Core-proj)<br>![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=flat-square) | Real-time video filtering pipeline on FPGA. Processes **[1080p @ 60 fps]** with **[X cycles / X µs]** latency using **[X% LUTs]**. | SystemVerilog · Vivado · AXI4-Stream |
+| [**AI Behavior Tree Toolkit**](https://github.com/syedjafri06193/AI-Behavior-Tree-Toolkit-proj)<br>![C++](https://img.shields.io/badge/C++-17-00599C?style=flat-square) | Modular behavior-tree library for game AI and NPCs. Ticks **[X agents / X µs per tick]**, **[X]** node types, **[X%]** test coverage. | C++17 · CMake · Google Test |
+| [**Custom STM32 Dev Board**](https://github.com/syedjafri06193/Custom-STM32-Dev-Board-proj)<br>![C](https://img.shields.io/badge/MCU-ARM%20Cortex--M-0091BD?style=flat-square) | Custom STM32 board designed in KiCad, with firmware drivers. Sleep current of **[X µA]**, **[X]** peripherals brought up. | C · STM32 HAL · KiCad |
+| [**Call Intelligence Summarizer**](https://github.com/syedjafri06193/Call-Intelligence-Summarizer-proj)<br>![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square) | Transcribes calls and pulls out action items and sentiment. **[X% WER]**, summarizes a **[30-min call in X s]**. | Python · Whisper · Transformers · FastAPI |
 
 ---
 
