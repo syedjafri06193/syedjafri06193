@@ -133,6 +133,7 @@ Have a project idea or want to build something ambitious?
 - 🍳 CodeChef: [codechef.com/users/syedjafri06193](https://codechef.com/users/syedjafri06193)  
 - ⚡ LeetCode: [leetcode.com/u/syedjafri06193](https://leetcode.com/u/syedjafri06193/)  
 - 🛠️ DevPost: [devpost.com/syedjafri06193](https://devpost.com/syedjafri06193)
+- [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/syedjafri06193/badge.svg)](https://hub.xerj.org/contributors/syedjafri06193)
 
 ---
 ## ⚡ Philosophy
