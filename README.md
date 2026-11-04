@@ -128,8 +128,6 @@ Have a project idea or want to build something ambitious?
 
 ### ✍️ Writing & Projects
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/syedjafri06193/badge.svg)](https://hub.xerj.org/contributors/syedjafri06193)
-
 - 📝 Medium: [medium.com/@syedjafri06193](https://medium.com/@syedjafri06193)
 - 🔧 Hackster: [hackster.io/syedjafri06193](https://hackster.io/syedjafri06193)
 - 📄 arXiv: [arXiv.org/syedjafri06193](https://arxiv.org/search/?query=jafri,+syed&searchtype=author)
