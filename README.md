@@ -121,22 +121,23 @@ I’m interested in systems that operate at the intersection of **intelligence, 
 
 Have a project idea or want to build something ambitious?
 
-- 🌐 Website: [syedjafri.dev](https://syedjafri.dev)  
-- 💼 LinkedIn: [linkedin.com/in/syedjafri06193](https://linkedin.com/in/syedjafri06193/)  
-- 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)  
-- ✉️ Email: syedjafri06193@gmail.com
+- 🌐 Website: [syedjafri.dev](https://syedjafri.dev)
+- 💼 LinkedIn: [linkedin.com/in/syedjafri06193](https://linkedin.com/in/syedjafri06193)
+- 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)
+- ✉️ Email: [syedjafri06193@gmail.com](mailto:syedjafri06193@gmail.com)
 
 ### ✍️ Writing & Projects
 
-- 📝 Medium: [medium.com/@syedjafri06193](https://medium.com/@syedjafri06193)  
-- 🔧 Hackster: [hackster.io/syedjafri06193](https://www.hackster.io/syedjafri06193)
+- 📝 Medium: [medium.com/@syedjafri06193](https://medium.com/@syedjafri06193)
+- 🔧 Hackster: [hackster.io/syedjafri06193](https://hackster.io/syedjafri06193)
+- 📄 arXiv: [Papers by Syed Jafri](https://arxiv.org/a/jafri_s_1)
 
 ### 🚀 Competitive Programming
 
-- 🏆 Codeforces: [codeforces.com/profile/syedjafri06193](https://codeforces.com/profile/syedjafri06193)  
-- 🍳 CodeChef: [codechef.com/users/syedjafri06193](https://codechef.com/users/syedjafri06193)  
-- ⚡ LeetCode: [leetcode.com/u/syedjafri06193](https://leetcode.com/u/syedjafri06193/)  
-- 🛠️ DevPost: [devpost.com/syedjafri06193](https://devpost.com/syedjafri06193)
+- 🏆 Codeforces: [codeforces.com/profile/syedjafri06193](https://codeforces.com/profile/syedjafri06193)
+- 🍳 CodeChef: [codechef.com/users/syedjafri06193](https://codechef.com/users/syedjafri06193)
+- ⚡ LeetCode: [leetcode.com/u/syedjafri06193](https://leetcode.com/u/syedjafri06193)
+- 🛠️ Devpost: [devpost.com/syedjafri06193](https://devpost.com/syedjafri06193)
 
 ---
 
