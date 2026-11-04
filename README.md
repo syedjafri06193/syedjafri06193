@@ -126,6 +126,11 @@ Have a project idea or want to build something ambitious?
 - 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)  
 - ✉️ Email: syedjafri06193@gmail.com
 
+### ✍️ Writing & Projects
+
+- 📝 Medium: [medium.com/@syedjafri06193](https://medium.com/@syedjafri06193)  
+- 🔧 Hackster: [hackster.io/syedjafri06193](https://www.hackster.io/syedjafri06193)
+
 ### 🚀 Competitive Programming
 
 - 🏆 Codeforces: [codeforces.com/profile/syedjafri06193](https://codeforces.com/profile/syedjafri06193)  
@@ -134,6 +139,7 @@ Have a project idea or want to build something ambitious?
 - 🛠️ DevPost: [devpost.com/syedjafri06193](https://devpost.com/syedjafri06193)
 
 ---
+
 ## ⚡ Philosophy
 
 I build at the intersection of:
