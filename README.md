@@ -1,8 +1,6 @@
 # Hi, I'm Syed Jafri
 
-🌐 **Websites:**  
-[syedjafri.dev](https://syedjafri.dev)  
-[syedjafri.xyz](https://syedjafri.xyz)
+🌐 **Websites:**  [syedjafri.dev](https://syedjafri.dev)  [syedjafri.xyz](https://syedjafri.xyz)
 📅 **Schedule a Call:** [Meeting](https://calendly.com/syedjafri06193/15min)
 
 ---
