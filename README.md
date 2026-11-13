@@ -130,7 +130,8 @@ Have a project idea or want to build something ambitious?
 
 - 📝 Medium: [medium.com/@syedjafri06193](https://medium.com/@syedjafri06193)
 - 🔧 Hackster: [hackster.io/syedjafri06193](https://hackster.io/syedjafri06193)
-- 📄 arXiv: [arXiv.org/syedjafri06193](https://arxiv.org/search/?query=jafri,+syed&searchtype=author)
+- 📄 arXiv: [arXiv papers by Syed Jafri](https://arxiv.org/search/?query=jafri,+syed&searchtype=author)
+- 🎓 Google Scholar: [scholar.google.com/citations?user=8Jc0iikAAAAJ](https://scholar.google.com/citations?user=8Jc0iikAAAAJ&hl=en)
 
 ### 🚀 Competitive Programming
 
