@@ -83,6 +83,14 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 - CI/CD (GitHub Actions) automated pipelines for testing, building and deployment workflows                        
 - Monitoring: Prometheus, CloudWatch observability, alerting, logging and performance dashboards
              
+### SAP & Enterprise Systems
+- SAP S/4HANA core ERP processes, data models and extensibility across finance and logistics
+- ABAP (OO, CDS Views, RAP) custom development, reports, enhancements and performance tuning
+- SAP BTP with Cloud Application Programming Model (CAP) for side-by-side cloud extensions
+- SAP HANA in-memory database, SQLScript, calculation views and query optimization
+- SAP Fiori / SAPUI5 responsive enterprise front-ends with OData service integration
+- SAP Integration Suite, IDocs, BAPIs and RFC for connecting SAP with external systems
+
 ### Game Development                                                                    
 - **Engines:** Unity (C#), Unreal Engine 5 (C++), Godot (GDScript) for cross-platform 2D/3D game development       
 - **Graphics & Shaders:** OpenGL, Vulkan, HLSL / GLSL, WebGL, Three.js for high-performance rendering pipelines     
