@@ -87,6 +87,7 @@ When I’m not building, I’m reading IEEE papers, contributing to open-source 
 - **SAP Platform:** S/4HANA, SAP HANA (SQLScript, calculation views), SAP BTP for core ERP and cloud extensions
 - **SAP Development:** ABAP (OO, CDS Views, RAP), CAP, Fiori / SAPUI5, OData for custom apps and enterprise front-ends
 - **SAP Integration:** Integration Suite, IDocs, BAPIs, RFC for connecting SAP with external systems
+- **Acumatica:** xRP Framework (C# / .NET), BQL / Fluent BQL, Customization Projects, Generic Inquiries, Report Designer, REST / OData APIs for cloud ERP customization and integration
 - **Salesforce:** Apex, Lightning Web Components, SOQL, Flows, Sales / Service Cloud for CRM customization and automation
 - **ServiceNow:** ITSM, Flow Designer, Glide API scripting, Service Portal, IntegrationHub for workflow automation
 
