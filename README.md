@@ -129,7 +129,7 @@ I’m interested in systems that operate at the intersection of **intelligence, 
 
 Have a project idea or want to build something ambitious?
 
-- 🌐 Website: [syedjafri.dev](https://syedjafri.dev)
+- 🌐 Website: [syedjafri.tech](https://syedjafri.tech)
 - 💼 LinkedIn: [linkedin.com/in/syedjafri06193](https://linkedin.com/in/syedjafri06193)
 - 💻 GitHub: [github.com/syedjafri06193](https://github.com/syedjafri06193)
 - ✉️ Email: [syedjafri06193@gmail.com](mailto:syedjafri06193@gmail.com)
